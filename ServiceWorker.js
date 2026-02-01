@@ -1,9 +1,9 @@
 const cacheName = "University of Pittsburgh at Bradford-Mask of the Ocean - Global Game Jam 2026 Submission-0.1";
 const contentToCache = [
-    "Build/WebGL-Borti-Build.loader.js",
-    "Build/WebGL-Borti-Build.framework.js.unityweb",
-    "Build/WebGL-Borti-Build.data.unityweb",
-    "Build/WebGL-Borti-Build.wasm.unityweb",
+    "Build/WebGL-NoCompress-Build.loader.js",
+    "Build/WebGL-NoCompress-Build.framework.js",
+    "Build/WebGL-NoCompress-Build.data",
+    "Build/WebGL-NoCompress-Build.wasm",
     "TemplateData/style.css"
 
 ];
